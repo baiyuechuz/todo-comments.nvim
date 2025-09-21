@@ -3,8 +3,7 @@
     "library": {
       "plugins": [
         "plenary.nvim",
-        "nvim-web-devicons",
-        "trouble.nvim"
+        "nvim-web-devicons"
       ]
     }
   },
